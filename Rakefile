@@ -13,8 +13,8 @@ test_tasks = [
 def create_test_task(name, pattern)
     Rake::TestTask.new(name) do |t|
         t.pattern = pattern
-        t.verbose = true
-        t.warning = true
+        t.verbose = false
+        t.warning = false
     end
 end
 

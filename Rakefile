@@ -21,5 +21,5 @@ end
 task :default => ["test:all"]
 
 namespace :test do
-    test_tasks.each { |name, file| create_test_task name,file }
+    test_tasks.each { |name, file| create_test_task name,file }    
 end

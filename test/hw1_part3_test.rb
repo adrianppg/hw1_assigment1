@@ -1,4 +1,4 @@
-require '../src/hw1_part3'
+require './src/hw1_part3'
 require 'test/unit'
 
 class TestAnagrams < Test::Unit::TestCase

@@ -1,5 +1,5 @@
 require 'test/unit'
-require './../src/hw1_part1'
+require './src/hw1_part1'
 
 class TestFunWithStrings < Test::Unit::TestCase
 

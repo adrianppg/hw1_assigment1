@@ -1,4 +1,4 @@
-require './../src/hw1_part5'
+require './src/hw1_part5'
 require 'test/unit'
 
 class Foo

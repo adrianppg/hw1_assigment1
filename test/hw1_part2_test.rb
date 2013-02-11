@@ -1,4 +1,4 @@
-require '../src/hw1_part2'
+require './src/hw1_part2'
 require 'test/unit'
 
 class TestRockPaperScissors < Test::Unit::TestCase

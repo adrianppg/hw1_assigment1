@@ -2,7 +2,6 @@
 
 require 'set'
 
-
 class WrongNumberOfPlayersError < StandardError ; end
 
 class NoSuchStrategyError < StandardError ; end
